@@ -1,0 +1,1 @@
+sudo /home/dudu/anaconda3/bin/python {nome do arquivo}.py
